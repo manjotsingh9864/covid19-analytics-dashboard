@@ -44,15 +44,13 @@ To run this project locally:
    ```bash
    git clone https://github.com/AdilShamim8/COVID-19_Global_Impact_Analysis.git
 ```
-
 2. Navigate to the project directory:
-
-   ```bash
+  ```bash
    cd COVID-19_Global_Impact_Analysis
-   ```
+```
 
 3. Open and run the notebook:
-   Use Jupyter Notebook or any compatible IDE to open `covid_analysis.ipynb`.
+   Use Jupyter Notebook or any compatible IDE to open `covid-19-global-impact-analysis.ipynb`.
 
 ## Dataset Source
 
@@ -69,7 +67,6 @@ To run this project locally:
 * World Health Organization for the dataset
 * Python open-source community for powerful libraries
 
-- Image previews of plots
+## License
 
-I can generate those too.
-```
+This project is licensed under the MIT License. See the [LICENSE](License) file for details.
