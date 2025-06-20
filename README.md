@@ -9,7 +9,7 @@
 
 An interactive, data-driven dashboard for analyzing and visualizing the global impact of COVID-19. This project leverages WHO datasets to provide comprehensive insights into the pandemic's spread, regional patterns, mortality rates, and temporal trends.
 
-![Dashboard Preview](https://raw.githubusercontent.com/AdilShamim8/COVID-19_Global_Impact_Analysis/main/assets/dashboard_preview.png)
+[Streamlit Cloud Website](https://covid-19-global-analysis.streamlit.app/)
 
 ## Features
 
