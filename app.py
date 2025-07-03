@@ -1789,7 +1789,7 @@ progress_bar.empty()
 st.markdown(f"""
 <div class="footer">
     <p>COVID-19 Analytics Hub - Data Source: World Health Organization (WHO)</p>
-    <p>Dashboard by AdilShamim8 | Last Updated: June 20, 2025</p>
-    <p>Created with Streamlit, Plotly & Pandas | Version 5.0</p>
+    <p>Dashboard by AdilShamim8 | Last Updated: July 3, 2025</p>
+    <p>Created with Streamlit, Plotly & Pandas | Version 5.5</p>
 </div>
 """, unsafe_allow_html=True)
