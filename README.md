@@ -3,7 +3,7 @@
 ![Dashboard Version](https://img.shields.io/badge/version-5.5-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.24.0-red)
-![Last Update](https://img.shields.io/badge/last%20updated-July%032025-yellow)
+![Last Update](https://img.shields.io/badge/last%20updated-July%203%202025-yellow)
 
 ## 🌐 Overview
 
