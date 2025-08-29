@@ -80,8 +80,8 @@ Contributions to this analysis are welcome! Please feel free to submit a pull re
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Adil Shamim - [@AdilShamim8](https://github.com/AdilShamim8)
+[Adil Shamim](https://adilshamim.me/)
 
 ---
 
-Last updated: 2025-08-02
+Last updated: 2025-08-29
