@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Last updated: 2025-08-29
+Last updated: August, 2025
