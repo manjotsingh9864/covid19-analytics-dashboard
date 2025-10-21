@@ -4,10 +4,10 @@ numpy
 plotly
 statsmodels
 prophet
-seaborn
-matplotlib
 st-aggrid
 reportlab
 openpyxl
 pillow
 kaleido
+seaborn
+matplotlib
